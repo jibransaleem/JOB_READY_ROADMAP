@@ -1,0 +1,7 @@
+{
+  "name": "AI Mastery 2026 Roadmap",
+  "description": "A comprehensive, AI-powered career roadmap application for mastering AI/ML, NLP, MLOps, and GenAI by 2026.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
